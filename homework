@@ -1,0 +1,8 @@
+h = int(input("enter weather here:"))
+if h>30:
+    print ("h is greater than 30")
+    print ("i'm in if block")
+else:
+    print (" h is smaller than 30")
+    print ("i'm in else block")
+print ("i'm not in if or else block,i'm outside")
